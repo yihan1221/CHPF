@@ -88,3 +88,9 @@ Output files
     *feature output:*
      The number of files depends on  the product of the fold of cross-validation and the number of trees built in each cross-validation.
      In each file, it includes the important of features of tree. 
+
+Publication
+============
+This manuscript is now published in Theranostics. Please cite this work using
+
+Zhang Y, Zhang B, Lv C, Zhang N, Xing K, Wang Z, Lv R, Yu M, Xu C, Wang Y. Single-cell RNA sequencing identifies critical transcription factors of tumor cell invasion induced by hypoxia microenvironment in glioblastoma. Theranostics. 2023 Jun 26;13(11):3744-3760.(https://www.thno.org/v13p3744.htm)
